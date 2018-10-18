@@ -52,4 +52,4 @@ async def on_message(message):
 
 
 
-client.run('TOEKN')
+client.run('TOKEN')
